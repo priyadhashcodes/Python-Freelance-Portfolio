@@ -1,0 +1,17 @@
+# Excel Automation Tool
+
+## Description
+This project converts manual Excel work into automated Python scripts.
+
+## Features
+- Bulk Excel processing
+- Data cleaning
+- Automated report generation
+
+## Tools Used
+- Python
+- Pandas
+- OpenPyXL
+
+## Purpose
+To replace manual Excel work with automation.
